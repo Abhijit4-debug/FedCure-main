@@ -23,23 +23,12 @@ The origin of the **statistical heterogeneity** phenomenon is the personalizatio
 **Citation**
 
 ```
-@article{DBLP:journals/access/SachinBHAA24,
-  author       = {D. N. Sachin and
-                  Annappa Basava and
-                  Saumya Hegde and
-                  Chunduru Sri Abhijit and
-                  Sateesh Ambesange},
-  title        = {FedCure: {A} Heterogeneity-Aware Personalized Federated Learning Framework
-                  for Intelligent Healthcare Applications in IoMT Environments},
-  journal      = {{IEEE} Access},
-  volume       = {12},
-  pages        = {15867--15883},
-  year         = {2024},
-  url          = {https://doi.org/10.1109/ACCESS.2024.3357514},
-  doi          = {10.1109/ACCESS.2024.3357514},
-  timestamp    = {Mon, 12 Feb 2024 19:39:02 +0100},
-  biburl       = {https://dblp.org/rec/journals/access/SachinBHAA24.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+@article{sachin2024fedcure,
+  title={FedCure: A Heterogeneity-Aware Personalized Federated Learning Framework for Intelligent Healthcare Applications in IoMT Environments},
+  author={Sachin, DN and Annappa, B and Hegde, Saumya and Abhijit, Chunduru Sri and Ambesange, Sateesh},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 ## FedCure supported datasets and pFL approaches.
