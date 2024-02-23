@@ -25,7 +25,7 @@ class Client(object):
         self.id = id  # integer
         self.save_folder_name = args.save_folder_name
 
-        self.num_classes = 3
+        self.num_classes = args.num_classes
         print(self.num_classes)
         self.train_samples = train_samples
         print(self.train_samples)
