@@ -1,4 +1,4 @@
-# FedCure: Heterogeneity Aware Personalized Federated Learning Framework for Internet of Medical Things (IOMT) Environments.
+# FedCure: Heterogeneity Aware Personalized Federated Learning Framework for Internet of Medical Things (IoMT) Environments.
 
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) [![IEEE Access](https://img.shields.io/badge/arXiv-2312.04992-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10412046)
 <!-- 
