@@ -42,6 +42,8 @@ The origin of the **statistical heterogeneity** phenomenon is the personalizatio
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
+## FedCure supported datasets and pFL approaches.
+
 | FL Approaches | pFL Algorithms  | Diabetes | Maternal Health | Body Performance | OCT Images | UCI HAR | PAMAP2 |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Traditional Federated Learning(tFL) | FedAvg | Yes | Yes | Yes |No| Yes |Yes |
